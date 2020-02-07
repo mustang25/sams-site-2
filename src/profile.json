@@ -1,0 +1,76 @@
+{
+  "title": "Research Scientist",
+  "summary": "Howdy! and welcome to my research website. My research is focused on short-term climate variability and air-sea interactions in the vicinity of midlatitude western boundary currents. Please use the site navigation to find more information about me and my work.",
+  "studies": [
+    {
+      "institute": "Colorado State University",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/14/Colorado_State_Rams_logo.svg",
+      "url": "https://www.atmos.colostate.edu/",
+      "title": "PhD Atmospheric Science",
+      "durationInYears": "7",
+      "graduationYear": 2019
+    },
+    {
+      "institute": "Texas A&M University",
+      "logo": "https://pbs.twimg.com/profile_images/411953318076755968/qrMmLUjA_400x400.jpeg",
+      "url": "https://atmo.tamu.edu/",
+      "title": "Bachelors Meteorology",
+      "durationInYears": "4",
+      "graduationYear": 2012
+    }
+  ],
+  "certifications": [
+
+  ],
+  "experiences": [
+    {
+      "companyName": "NOAA Pacific Marine Environmental Laboratory",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/936px-NOAA_logo.svg.png",
+      "url": "https://www.pmel.noaa.gov/",
+      "roles": [
+        {
+          "title": "Research Scientist",
+          "description": "Drones",
+          "startDate": "2019-03-26",
+          "currentJob": true,
+          "location": "Seattle, WA"
+        }
+      ]
+    },
+    {
+      "companyName": "Colorado State University",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/14/Colorado_State_Rams_logo.svg",
+      "url": "https://www.atmos.colostate.edu/",
+      "roles": [
+        {
+          "title": "Graduate Research Assistant",
+          "description": "My research focuses on ocean-atmosphere interaction near western boundary currents in the midlatitude Northern Hemisphere to better understand climate variability",
+          "startDate": "2012-08-01",
+          "endDate": "2019-03-20",
+          "location": "Fort Collins, CO"
+        }
+      ]
+    },
+    {
+      "companyName": "Texas A&M University",
+      "logo": "https://pbs.twimg.com/profile_images/411953318076755968/qrMmLUjA_400x400.jpeg",
+      "url": "https://atmo.tamu.edu/",
+      "roles": [
+        {
+          "title": "Student Researcher – Collin’s Group",
+          "description": "Aided Dr. Don Collins’s research group in building a gas chamber to manipulate aerosols.",
+          "startDate": "2011-01-01",
+          "endDate": "2012-08-01",
+          "location": "College Station, TX"
+        },
+        {
+          "title": "Student Researcher",
+          "description": "Conducted research at the Texas A&M Soltis Center for Research and Education on the edge of the Monteverde Preserve in Costa Rica. My tasks included deploying four portable weather stations, collecting field data, and analyzing long-term temperature and precipitation data from online datasets.",
+          "startDate": "2011-05-01",
+          "endDate": "2011-08-01",
+          "location": "Costa Rica"
+        }
+      ]
+    }
+  ]
+}
